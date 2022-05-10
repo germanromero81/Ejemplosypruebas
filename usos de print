@@ -17,3 +17,5 @@ print("Python")
 
 print("Fundamentos","Programación","en",sep="****",end=".... ")
 print("Python")
+
+print("\"Estoy\" \n \"\"aprendiendo\"\" \n \"\"\"Python\"\"\"")
