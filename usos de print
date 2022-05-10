@@ -1,0 +1,19 @@
+print("hisss....")
+
+print("hola \n tanto tiempo")
+print("Cambiame \n el reloj")
+
+print("soy quien no ha de \\ de morir jamás")
+print("Mi nombre es","German", end=" ")
+print("German Vx")
+
+print("Mi","nombre","es","German",sep="-")
+
+print("Mi", "nombre", "es", sep="_", end="*")
+print("Monty", "Python.", sep="*", end="*\n") 
+
+print("Fundamentos","Programación","en",sep="****",end=" ")
+print("Python")
+
+print("Fundamentos","Programación","en",sep="****",end=".... ")
+print("Python")
